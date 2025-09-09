@@ -231,3 +231,4 @@ with gr.Blocks(css=css, title="AI Medical Symptom Analyzer") as demo:
 
 # Launch app (in Colab this will produce a public .gradio.live link)
 demo.launch()
+#run the code in google colab
